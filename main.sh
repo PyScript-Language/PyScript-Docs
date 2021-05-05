@@ -1,1 +1,2 @@
-cd index.js
+cd hello-react
+npm start
