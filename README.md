@@ -1,6 +1,7 @@
 <p align = "center">
   <img src = "PyScript.png"></img>
 </p>
+
 # The Unofficial and Official PyScript Docs
 ##### Coded and created by @JBYT27
 
