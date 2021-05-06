@@ -1,2 +1,2 @@
 cd hello-react
-npm start
+yarn start # We need yarn so it's faster
