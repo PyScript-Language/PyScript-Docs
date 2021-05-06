@@ -6,12 +6,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <br></br>
+        <br>
+        </br>
         <HomepageImage />
         <h4>
           PyScript: A Python and Js language combined
         </h4>
-        <br></br>
+        <br>
+        </br>
         <h6 align="right">
           <a
             className="App-link"
