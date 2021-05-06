@@ -6,18 +6,22 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <br></br>
         <HomepageImage />
-        <p>
-          HAHA E
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h4>
+          PyScript: A Python and Js language combined
+        </h4>
+        <br></br>
+        <h6 align="right">
+          <a
+            className="App-link"
+            href="https://reactjs.org"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Learn React
+          </a>
+        </h6>
       </header>
     </div>
   );
