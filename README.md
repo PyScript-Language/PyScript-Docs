@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Unofficial and Official PyScript Docs
 ##### Coded and created by @JBYT27
 
@@ -19,3 +20,11 @@ This is both an official and unofficial language, not much to say to that, but j
 --- 
 
 ### Have fun coding with PyScript!
+=======
+<h1 align= "center">PyScript-Docs</h1>
+<p align = "center">
+  <img src = "PyScript.png"></img>
+</p>
+
+These are the docs for the PyScript programming language.
+>>>>>>> origin/master
